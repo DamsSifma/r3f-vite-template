@@ -6,5 +6,5 @@ My personal boilerplate for ThreeJS with many useful tools and using Vite
 - r3f-perf for performance monitoring
 
 ```
-npm dev
+npm run dev
 ```
